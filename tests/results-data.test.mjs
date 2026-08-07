@@ -8,8 +8,10 @@ test('results archive has the expected complete-history shape', () => {
   assert.ok(Array.isArray(data.results));
   assert.ok(Array.isArray(data.summaries));
   assert.ok(Array.isArray(data.progression));
-  assert.equal(data.results.length, 625);
-  assert.equal(Math.min(...data.results.map((row) => row.year)), 2015);
+  assert.equal(data.results.length, 647);
+  assert.equal(data.results.filter((row) => row.source_type === 'UltraSignup live').length, 635);
+  assert.equal(data.results.filter((row) => row.source_type !== 'UltraSignup live').length, 12);
+  assert.equal(Math.min(...data.results.map((row) => row.year)), 2014);
   assert.equal(Math.max(...data.results.map((row) => row.year)), 2025);
 });
 
@@ -67,4 +69,10 @@ test('FKT progression is chronological and never gets slower', () => {
 
 test('public results data contains no private contact fields', () => {
   assert.deepEqual(privateDataPaths(data), []);
+  const serialized = JSON.stringify(data);
+  assert.doesNotMatch(serialized, /\b[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,}\b/i, 'Public data contains an email address');
+  assert.doesNotMatch(serialized, /\b\d{3}[-.)\s]+\d{3}[-.\s]+\d{4}\b/, 'Public data contains a phone number');
+  for (const row of data.results) {
+    assert.doesNotMatch(String(row.city ?? ''), /^\s*\d+\s+.+\b(?:street|st|avenue|ave|road|rd|drive|dr|lane|ln|court|ct|boulevard|blvd)\b/i, `${row.result_id} city field looks like a street address`);
+  }
 });
