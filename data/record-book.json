@@ -1,0 +1,594 @@
+{
+  "updated_through": 2025,
+  "routes": [
+    {
+      "route": "Alpine Lakes Grand Tour",
+      "href": "https://ultrawilderness.com/alpine-lakes-grand-tour-1",
+      "male": [
+        {
+          "name": "Christof Teuscher",
+          "time": "35:44:00",
+          "year": 2019,
+          "shared": false
+        }
+      ],
+      "female": [
+        {
+          "name": "Megan Lacey",
+          "time": "35:44:00",
+          "year": 2019,
+          "shared": false
+        }
+      ]
+    },
+    {
+      "route": "Ancient Lakes — Lake to Lake (retired)",
+      "href": "https://ultrawilderness.com/ancient-lakes",
+      "male": [
+        {
+          "name": "Ryan McIrvin",
+          "time": "2:32:22",
+          "year": 2020,
+          "shared": false
+        }
+      ],
+      "female": [
+        {
+          "name": "Katie Duncan",
+          "time": "2:29:03",
+          "year": 2021,
+          "shared": false
+        }
+      ]
+    },
+    {
+      "route": "Ancient Lakes — Start to Start",
+      "href": "https://ultrawilderness.com/ancient-lakes",
+      "male": [
+        {
+          "name": "Eric Bone",
+          "time": "2:39",
+          "year": 2020,
+          "shared": false
+        }
+      ],
+      "female": [
+        {
+          "name": "Rebekah Davis",
+          "time": "3:13:02",
+          "year": 2023,
+          "shared": false
+        }
+      ]
+    },
+    {
+      "route": "Ben & Kevin’s Excellent Pasayten Adventure",
+      "href": "https://ultrawilderness.com/ben-and-kevin",
+      "male": [
+        {
+          "name": "Jon Armstrong",
+          "time": "19:00:00",
+          "year": 2017,
+          "shared": false
+        }
+      ],
+      "female": [
+        {
+          "name": "Valerie Wall",
+          "time": "19:00:00",
+          "year": 2017,
+          "shared": false
+        }
+      ]
+    },
+    {
+      "route": "Big Jim and the Chiwaukum",
+      "href": "https://ultrawilderness.com/big-jim-and-the-chiwaukum",
+      "male": [
+        {
+          "name": "Andrew Fabian",
+          "time": "7:54:49",
+          "year": 2020,
+          "shared": true
+        },
+        {
+          "name": "Kristoffer Jonson",
+          "time": "7:54:49",
+          "year": 2020,
+          "shared": true
+        }
+      ],
+      "female": [
+        {
+          "name": "Christine Mosley",
+          "time": "8:50:00",
+          "year": 2023,
+          "shared": false
+        }
+      ]
+    },
+    {
+      "route": "Buckskin Ridge",
+      "href": "https://ultrawilderness.com/buckskin-ridge",
+      "male": [
+        {
+          "name": "Andrew Fabian",
+          "time": "12:07:55",
+          "year": 2020,
+          "shared": true
+        },
+        {
+          "name": "Kristoffer Jonson",
+          "time": "12:07:55",
+          "year": 2020,
+          "shared": true
+        }
+      ],
+      "female": [
+        {
+          "name": "Amanda Mazzenga",
+          "time": "12:07:55",
+          "year": 2020,
+          "shared": false
+        }
+      ]
+    },
+    {
+      "route": "Chinook Pass",
+      "href": "https://ultrawilderness.com/chinook-pass",
+      "male": [
+        {
+          "name": "Sean Michael",
+          "time": "5:36:54",
+          "year": 2023,
+          "shared": false
+        }
+      ],
+      "female": [
+        {
+          "name": "Trisha Steidl",
+          "time": "5:49:32",
+          "year": 2023,
+          "shared": false
+        }
+      ]
+    },
+    {
+      "route": "Devil’s Dome",
+      "href": "https://ultrawilderness.com/devils-dome",
+      "male": [
+        {
+          "name": "Matt Hayes",
+          "time": "9:27:00",
+          "year": 2013,
+          "shared": true
+        },
+        {
+          "name": "Roger Michel",
+          "time": "9:27:00",
+          "year": 2013,
+          "shared": true
+        }
+      ],
+      "female": [
+        {
+          "name": "Heather Anderson",
+          "time": "10:46:00",
+          "year": 2013,
+          "shared": false
+        }
+      ]
+    },
+    {
+      "route": "Easy Pass",
+      "href": "https://ultrawilderness.com/easy-pass",
+      "male": [
+        {
+          "name": "Michael Plummer",
+          "time": "4:15:10",
+          "year": 2019,
+          "shared": false
+        }
+      ],
+      "female": [
+        {
+          "name": "Katie Teagirl",
+          "time": "6:12:02",
+          "year": 2018,
+          "shared": false
+        }
+      ]
+    },
+    {
+      "route": "Graves Creek",
+      "href": "https://ultrawilderness.com/graves-creek",
+      "male": [
+        {
+          "name": "Steve Palmer",
+          "time": "16:56:00",
+          "year": 2018,
+          "shared": false
+        }
+      ],
+      "female": [
+        {
+          "name": "Jessica Kelley",
+          "time": "27:50:52",
+          "year": 2015,
+          "shared": false
+        }
+      ]
+    },
+    {
+      "route": "La Bohn Traverse",
+      "href": "https://ultrawilderness.com/la-bohn-traverse",
+      "male": [
+        {
+          "name": "Jon Lumb",
+          "time": "10:17:00",
+          "year": 2023,
+          "shared": false
+        }
+      ],
+      "female": [
+        {
+          "name": "Amanda Mazzenga",
+          "time": "10:59:21",
+          "year": 2023,
+          "shared": false
+        }
+      ]
+    },
+    {
+      "route": "Loowit Trail",
+      "href": "https://ultrawilderness.com/loowit-trail",
+      "male": [
+        {
+          "name": "Shaun Henderson",
+          "time": "7:01:00",
+          "year": 2017,
+          "shared": false
+        }
+      ],
+      "female": [
+        {
+          "name": "Amanda Mazzenga",
+          "time": "9:42:00",
+          "year": 2020,
+          "shared": false
+        }
+      ]
+    },
+    {
+      "route": "Mind/Body Challenge — Baker’s Dozen",
+      "href": "https://ultrawilderness.com/bakers-dozen",
+      "male": [
+        {
+          "name": "Ryan Stoddard",
+          "time": "14:05:00",
+          "year": 2018,
+          "shared": false
+        }
+      ],
+      "female": [
+        {
+          "name": "Katie Teagirl",
+          "time": "32:30:00",
+          "year": 2018,
+          "shared": false
+        }
+      ]
+    },
+    {
+      "route": "Mind/Body Challenge — Double Desolation",
+      "href": "https://ultrawilderness.com/double-desolation",
+      "male": [
+        {
+          "name": "Jeff Wright",
+          "time": "31:45:59",
+          "year": 2015,
+          "shared": false
+        }
+      ],
+      "female": [
+        {
+          "name": "Kathy Vaughn",
+          "time": "46:30:59",
+          "year": 2016,
+          "shared": true
+        },
+        {
+          "name": "Lisa Eversgerd",
+          "time": "46:30:59",
+          "year": 2016,
+          "shared": true
+        }
+      ]
+    },
+    {
+      "route": "Mind/Body Challenge — Sourdough Sufferfest",
+      "href": null,
+      "male": [
+        {
+          "name": "Jeff Wright",
+          "time": "62:00:00",
+          "year": 2017,
+          "shared": false
+        }
+      ],
+      "female": []
+    },
+    {
+      "route": "Mother Mountain / Northern Loop",
+      "href": "https://ultrawilderness.com/mother-mountain",
+      "male": [
+        {
+          "name": "Shaun Henderson",
+          "time": "11:51:00",
+          "year": 2017,
+          "shared": false
+        }
+      ],
+      "female": [
+        {
+          "name": "Amanda Mazzenga",
+          "time": "13:44:00",
+          "year": 2020,
+          "shared": false
+        }
+      ]
+    },
+    {
+      "route": "Mount Aix / Nelson Ridge",
+      "href": "https://ultrawilderness.com/mount-aix-nelson-ridge",
+      "male": [
+        {
+          "name": "Richard Lockwood",
+          "time": "8:02:22",
+          "year": 2020,
+          "shared": false
+        }
+      ],
+      "female": [
+        {
+          "name": "Amanda Mazzenga",
+          "time": "22:59:43",
+          "year": 2021,
+          "shared": false
+        }
+      ]
+    },
+    {
+      "route": "Oh deer, last ferry is at 10:30 pm!",
+      "href": "https://ultrawilderness.com/oh-deer",
+      "male": [
+        {
+          "name": "Anson Fatland",
+          "time": "10:14:25",
+          "year": 2024,
+          "shared": false
+        }
+      ],
+      "female": [
+        {
+          "name": "Julie Larsen",
+          "time": "31:06:00",
+          "year": 2025,
+          "shared": false
+        }
+      ]
+    },
+    {
+      "route": "Olympic Coast Route",
+      "href": "https://ultrawilderness.com/olympic-coast",
+      "male": [
+        {
+          "name": "Andrew Wilkens",
+          "time": "16:28:43",
+          "year": 2019,
+          "shared": false
+        }
+      ],
+      "female": [
+        {
+          "name": "Julie Cassata",
+          "time": "18:58:00",
+          "year": 2015,
+          "shared": false
+        }
+      ]
+    },
+    {
+      "route": "Oregon 3 Sisters Challenge",
+      "href": "https://ultrawilderness.com/3-sisters-challenge",
+      "male": [
+        {
+          "name": "Kristoffer Jonson",
+          "time": "33:03:00",
+          "year": 2025,
+          "shared": false
+        }
+      ],
+      "female": [
+        {
+          "name": "Amanda Mazzenga",
+          "time": "33:03:00",
+          "year": 2025,
+          "shared": false
+        }
+      ]
+    },
+    {
+      "route": "Owyhigh Lakes Loop",
+      "href": "https://ultrawilderness.com/owyhigh-lakes-loop",
+      "male": [
+        {
+          "name": "Carl Koopmans",
+          "time": "5:53:27",
+          "year": 2024,
+          "shared": false
+        }
+      ],
+      "female": [
+        {
+          "name": "Trisha Steidl",
+          "time": "8:22:41",
+          "year": 2018,
+          "shared": false
+        }
+      ]
+    },
+    {
+      "route": "Purple Rainbow 100K",
+      "href": "https://ultrawilderness.com/purple-rainbow",
+      "male": [
+        {
+          "name": "Nathan Schaeffer",
+          "time": "23:09:35",
+          "year": 2021,
+          "shared": false
+        }
+      ],
+      "female": [
+        {
+          "name": "Amanda Mazzenga",
+          "time": "32:48:00",
+          "year": 2020,
+          "shared": false
+        }
+      ]
+    },
+    {
+      "route": "Seven Lakes Loop",
+      "href": "https://ultrawilderness.com/seven-lakes",
+      "male": [
+        {
+          "name": "Mark Goodro",
+          "time": "24:50:08",
+          "year": 2020,
+          "shared": false
+        }
+      ],
+      "female": [
+        {
+          "name": "Amanda Mazzenga",
+          "time": "31:57:46",
+          "year": 2021,
+          "shared": false
+        }
+      ]
+    },
+    {
+      "route": "Shellrockin’ Loop",
+      "href": "https://ultrawilderness.com/shellrockin-loop",
+      "male": [
+        {
+          "name": "Steve Palmer",
+          "time": "22:19:00",
+          "year": 2018,
+          "shared": true
+        },
+        {
+          "name": "Bryce Romans",
+          "time": "22:19:00",
+          "year": 2018,
+          "shared": true
+        }
+      ],
+      "female": [
+        {
+          "name": "Amanda Mazzenga",
+          "time": "54:40:00",
+          "year": 2020,
+          "shared": false
+        }
+      ]
+    },
+    {
+      "route": "Spider on Steroids",
+      "href": "https://ultrawilderness.com/spider-on-steroids",
+      "male": [
+        {
+          "name": "Tyler Cox",
+          "time": "11:45:37",
+          "year": 2020,
+          "shared": false
+        }
+      ],
+      "female": [
+        {
+          "name": "Jennifer Schwegler",
+          "time": "15:45:34",
+          "year": 2020,
+          "shared": false
+        }
+      ]
+    },
+    {
+      "route": "The Kettle Crest",
+      "href": "https://ultrawilderness.com/kettle-crest",
+      "male": [
+        {
+          "name": "John T Barrickman",
+          "time": "13:58:00",
+          "year": 2019,
+          "shared": false
+        }
+      ],
+      "female": [
+        {
+          "name": "Amanda Mazzenga",
+          "time": "14:21:16",
+          "year": 2021,
+          "shared": false
+        }
+      ]
+    },
+    {
+      "route": "WAS UP — What a Surprise Creek Loop",
+      "href": "https://ultrawilderness.com/was-up",
+      "male": [
+        {
+          "name": "Andrew Fabian",
+          "time": "4:27:45",
+          "year": 2020,
+          "shared": false
+        }
+      ],
+      "female": [
+        {
+          "name": "Elizabeth Glenn",
+          "time": "6:24:41",
+          "year": 2020,
+          "shared": false
+        }
+      ]
+    },
+    {
+      "route": "Windy Peak Lollipop",
+      "href": "https://ultrawilderness.com/windy-peak-lollipop",
+      "male": [
+        {
+          "name": "Andrew Fabian",
+          "time": "7:49:57",
+          "year": 2020,
+          "shared": true
+        },
+        {
+          "name": "Kristoffer Jonson",
+          "time": "7:49:57",
+          "year": 2020,
+          "shared": true
+        }
+      ],
+      "female": [
+        {
+          "name": "Amanda Mazzenga",
+          "time": "8:57:57",
+          "year": 2021,
+          "shared": false
+        }
+      ]
+    }
+  ]
+}
