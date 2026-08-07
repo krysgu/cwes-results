@@ -15,5 +15,10 @@ Public GitHub Pages site for the Cascadian Wilderness Endurance Series and UPWC.
 - `record-book/`: confirmed FKT record book
 - `assets/`: shared styling, scripts, and social imagery
 - `data/`: public results and record-book data
+- `tests/`: automated integrity and consistency tests
+
+## Testing
+
+Run `npm test` with Node.js 20 or newer. GitHub Actions runs the same test suite automatically on every push to `main` and on pull requests.
 
 Only public race information belongs in this repository. Mailing addresses, email addresses, registration exports, and other private participant information must remain in private storage.

@@ -1,0 +1,14 @@
+{
+  "name": "cwes-results",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Automated integrity checks for the CWES and UPWC public archive",
+  "type": "module",
+  "scripts": {
+    "test": "node --test tests/*.test.mjs",
+    "check": "node --check assets/js/results.js && node --check assets/js/record-book.js && npm test"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
