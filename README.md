@@ -1,3 +1,4 @@
-# cwes-results
+# CWES / UPWC public archive
 
-CWES and UPWC complete public race results archive.
+- [Complete race results](https://krysgu.github.io/cwes-results/)
+- [Record book](https://krysgu.github.io/cwes-results/record-book/)
