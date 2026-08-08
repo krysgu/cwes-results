@@ -7,12 +7,14 @@ Public GitHub Pages site for the Cascadian Wilderness Endurance Series and UPWC.
 - [Archive home](https://krysgu.github.io/cwes-results/)
 - [Complete results](https://krysgu.github.io/cwes-results/results/)
 - [Record book](https://krysgu.github.io/cwes-results/record-book/)
+- [Interactive route map](https://krysgu.github.io/cwes-results/route-map/)
 
 ## Structure
 
 - `index.html`: archive landing page
 - `results/`: searchable complete-results page
 - `record-book/`: confirmed FKT record book
+- `route-map/`: searchable, embeddable UPWC and WIEC route map
 - `assets/`: shared styling, scripts, and social imagery
 - `data/`: public results and record-book data
 - `tests/`: automated integrity and consistency tests
